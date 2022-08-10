@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name":"Cannon Beach",
+        "country":"EEUU",
+        "description":"Cannon Beach has been recognized as Overall's Best Beach, one of America's Best Arts Cities, and one of the most beautiful places in the world.",
+        "imagen":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcR7O9LRF18P8Cw4Ku9-QgkM12SBBlOLgn54Y_4llNgGKXa7MvkgRQDBOJz_GBb9Hahn"
+    },
+    {
+        "id": 2,
+        "name":"Rio de Janeiro",
+        "country":"Brasil",
+        "description":"Rio de Janeiro, where historic sites, sparkling beaches, green belts and the cheerful attitude of the locals take tourists to the world where heaven meets earth.",
+        "imagen":"http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSvFzaAumI-1_ww5mNE2n6sBJJc11rUklqknnbi0VodEOmxFIOKFWhkoA0zm2gQTdWk"
+    },
+    {
+        "id": 3,
+        "name":"Cancun",
+        "country":"Mexico",
+        "description":"With its gorgeous turquoise seas, powdery white-sand beaches, and vibrant coral reefs, it’s no surprise that Cancun is one of Mexico’s most popular resort areas.",
+        "imagen":"http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcStf_qpyGStF5n7CnYMpV9dVjU8iA7838huI2LlrKvtZnkaUiLO4GclRH0wP_DO79VZ"
+    },
+    {
+        "id": 4,
+        "name":"Cape Town",
+        "country":"South Africa",
+        "description":"The capital city of South Africa, Cape Town is located mountains and sea and is one of the famous places to visit in South Africa.",
+        "imagen":"http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcTfd_vOa29DU0mLgNi64CfwgCYXvkGJ_xaSk4rp9TJ6dewMYVoYyQOs7rY-b5d9Qlry"
+    },
+    {
+        "id": 5,
+        "name":"Miami",
+        "country":"EEUU",
+        "description":"Beyond the radiant sun, surf and sand, discover Miami Beach's rich history as an entertainment and cultural destination.",
+        "imagen":"https://www.infobae.com/new-resizer/GQv1DdcoG2rWdrWq1w-key8AGKw=/992x558/filters:format(webp):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/08/08125458/27-South-Beach-Miami-SF.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Mar del Plata",
+        "country":"Argentina",
+        "description":"Magnificent beaches, wide bays, imposing cliffs and forests await you in the city of Mar del Plata.",
+        "imagen":"http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS-OXPiLKY2I56yCrMJAa7vxmj3uFo-15P95b4JrEmmA4rSkdWfXs4an54UiYELL-wS"
+    }
+]
